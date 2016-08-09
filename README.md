@@ -1,21 +1,18 @@
-#Angular 1.5 presentation
+# Angular 1.5 presentation
 
-------------------------------------------------------------------------------------------------------------
+### Pre Requirement
 
-#Pre Requirement
+  - Node.Js
 
-   Node.Js
-------------------------------------------------------------------------------------------------------------
-#Settup Project 
+### Settup Project 
 
-  $ npm install -g bower
-  $ npm install -g http-server
+  - $ npm install -g bower
+  - $ npm install -g http-server
 
 
-  Then go to Angular-Kt folder RUN 
-
-   $ bower install
-   $ http-server
+######   Then go to Angular-Kt folder RUN 
+ - $ bower install
+ - $ http-server
 
 
 
